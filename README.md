@@ -30,11 +30,4 @@ CodeVerse relies on contributions from the community. To contribute a code snipp
 4. Test your changes.
 5. Submit a pull request, providing a description of your contribution.
 
-## User Support
-If you have questions or encounter issues while using our platform, please open an issue on this repository. Our team and community members are here to provide support.
 
-## License
-This project is licensed under the [License Name]. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-We want to express our appreciation to the open-source community and all contributors who help maintain and grow this valuable resource.
