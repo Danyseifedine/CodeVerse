@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+:root {
+
+    --purple: rgb(89, 164, 255);
+    --violet: rgb(0, 85, 255);
+    --pink: rgb(219, 31, 106);
+    --fs: clamp(3rem, 8vw, 7rem);
+
+    --header-height: 3.5rem;
+    --text-first-color: #ffffff;
+    --text-second-color: #c7c9d3;
+    --box-background: #444750;
+    --box-background-opacity: #4447503e;
+    --box-background-2: #1d1e22;
+    --box-background-opacity-2: #1d1e22b0;
+    --input-background: #252830;
+    --btn-background: #ab00ab;
+    --btn-background-opacity: #d600d6c5;
+    --body-font: "Poppins", sans-serif;
+    --side-bar: #1e1f26;
+    --side-bar-opacity: #1e1f26a8;
+    --first-color-lighten: hsl(220, 68%, 97%);
+
+
+    --normal-font-size: .938rem;
+    --small-font-size: .813rem;
+    --smaller-font-size: .75rem;
+
+    --font-medium: 500;
+    --font-semi-bold: 600;
+
+    --z-tooltip: 10;
+    --z-fixed: 100;
+
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    cursor: none;
+    background: url('../images/bg.svg');
+}
+
+.Auth_card{
+    background-color: var(--box-background-opacity-2);
+    color: white !important;
+}
+
+.auth_btn{
+    margin-top: 30px;
+    background-color: var(--btn-background);
+}
+
+.auth_change{
+    color: var(--btn-background-opacity);
+}
+
+.Auth_input{
+    width: 100%;
+    background-color: var(--box-background-opacity);
+    padding: 10px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+
+.Auth_input:focus{
+    border-color: transparent;
+}
+
