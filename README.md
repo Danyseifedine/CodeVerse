@@ -6,6 +6,9 @@ CodeVerse is a platform that hosts a collection of free code snippets and resour
 ## Built by a Team of Three
 CodeVerse is proudly built and maintained by a group of three passionate developers who are dedicated to creating a valuable resource for the frontend developer community.
 
+
+## To run the website without any error make sure to insert the home.txt query in your database
+
 ## Features
 - **Free Code Snippets**: Access a growing library of free frontend code snippets in various technologies, including HTML, CSS, JavaScript, and popular frontend frameworks.
 - **User Submissions**: Users can submit their own code snippets and tutorials for review.
